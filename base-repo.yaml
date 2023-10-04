@@ -1,9 +1,0 @@
-apiVersion: scheduler.kalypso.io/v1alpha1
-kind: BaseRepo
-metadata:
-  name: main
-spec:
-  repo: https://github.com/eedorenko/kalypso-oci-control-plane
-  branch: main
-  path: .
-  commit: cce1806763c84d42db0caa4661472544be36ee00
