@@ -1,0 +1,9 @@
+apiVersion: scheduler.kalypso.io/v1alpha1
+kind: BaseRepo
+metadata:
+  name: main
+spec:
+  repo: https://github.com/eedorenko/configuratix-kalypso-control-plane-global
+  branch: main
+  path: .
+  commit: c736f784bd7f11ef11ec469f74d5165b3997fac7
