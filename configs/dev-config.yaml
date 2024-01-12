@@ -4,6 +4,7 @@ metadata:
   name: dev-config
   labels:
      platform-config: "true"
+     region: east-us
 data:
   ENVIRONMENT: Dev
   SOME_COMMON_ENVIRONMENT_VARIABLE: "true"
